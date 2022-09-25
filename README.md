@@ -38,7 +38,7 @@ Write a lexer from scratch by designing and implementing FSA that returns the to
 -------------------------------------------------------------------------------
 
 ## lexer.py
-This file contains the Tokens and Lexer class, along with some Error exception handling. 
+This file contains the tokens and lexer class, along with some error exception handling. 
 
 ## shell.py
 This is the main file to run. 
