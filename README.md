@@ -43,4 +43,4 @@ This file contains the tokens and lexer class, along with some error exception h
 ## shell.py
 This is the main file to run. 
 Make sure lexer.py, shell.py, “input_sourcecode.txt” are all in the same folder location otherwise the main file will run an error. 
-Running main on shell.py will create output.docx with a table of Tokens and corresponding Lexeme in list.
+Running main on shell.py will create output.docx with a table of Tokens and corresponding Lexeme in list. May need to install imported modules in shell.py before running main.
